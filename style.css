@@ -73,7 +73,7 @@ body {
 }
 
 .hidden {
-  display: none;
+  display: none !important;
 }
 .container {
   max-width: 1400px;
