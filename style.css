@@ -69,9 +69,12 @@ body {
   color: #fafaf9;
   background-color: #44403c;
   font-family: "Sono", sans-serif;
-  padding: 48px;
+  padding: 48px 64px;
 }
 
+.hidden {
+  display: none;
+}
 .container {
   max-width: 1400px;
   margin: 0 auto;
