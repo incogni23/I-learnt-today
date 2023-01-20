@@ -1,4 +1,46 @@
-.h1 {
-  font-size: 42px;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 38px;
   text-transform: uppercase;
+  font-family: "Coiny", sans-serif;
+}
+
+.header {
+  margin: 40px;
+}
+
+.fact-form {
+  background-color: #57534e;
+  margin-bottom: 60px;
+  padding: 16px 40px;
+}
+
+.fact {
+  font-size: 20px;
+  line-height: 1.4;
+  background-color: #57534e;
+  margin-bottom: 16px;
+  padding: 16px 24px;
+}
+
+body {
+  color: #fafaf9;
+  background-color: #44403c;
+  font-family: "Sono", sans-serif;
+  padding: 40px;
+}
+
+.tag {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-family: "Coiny", sans-serif;
+}
+
+ul {
+  list-style: none;
 }
